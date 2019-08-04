@@ -1,7 +1,7 @@
 # TouchDesigner Light Volumes
 
 ## Contributors 
-**Author**  | [Michael Walczyk](http://www.michaelwalczyk.com)
+**Author**  | [Michael Walczyk](http://www.michaelwalczyk.com)  
 **Adapted by** |  [Matthew Ragan](https://matthewragan.com)
 
 ## Platform
