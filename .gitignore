@@ -1,0 +1,8 @@
+# vscode pieces
+.vscode/*
+ 
+# mac files
+*.DS_STORE
+
+# python cahce files | Byte-compiled / optimized / DLL files
+*__pycache__/*
